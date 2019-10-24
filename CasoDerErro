@@ -1,0 +1,2 @@
+Se der Erro  Rode esse Comando dentro do  Projeto
+cd android && gradlew clean && cd .. && react-native run-android
